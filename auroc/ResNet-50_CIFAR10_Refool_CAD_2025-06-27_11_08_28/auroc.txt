@@ -1,0 +1,7 @@
+mean
+PDF : 1e-3
+trainset size : 100
+count: (6, 18, 30)
+F1: 0.9347
+FPR: 0.1397
+TPR: 1.0

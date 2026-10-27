@@ -1,0 +1,209 @@
+mean
+CDF : 0.00005
+count: (7, 19, 31)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 19, 32)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 19, 33)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 19, 34)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 19, 35)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 19, 36)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 20, 31)
+FPR: 0.3044
+TPR: 1.0
+count: (7, 20, 32)
+FPR: 0.3044
+TPR: 1.0
+count: (7, 20, 33)
+FPR: 0.3044
+TPR: 1.0
+count: (7, 20, 34)
+FPR: 0.3044
+TPR: 1.0
+count: (7, 20, 35)
+FPR: 0.3044
+TPR: 1.0
+count: (7, 20, 36)
+FPR: 0.3044
+TPR: 1.0
+count: (7, 21, 31)
+FPR: 0.3028
+TPR: 1.0
+count: (7, 21, 32)
+FPR: 0.3028
+TPR: 1.0
+count: (7, 21, 33)
+FPR: 0.3028
+TPR: 1.0
+count: (7, 21, 34)
+FPR: 0.3028
+TPR: 1.0
+count: (7, 21, 35)
+FPR: 0.3028
+TPR: 1.0
+count: (7, 21, 36)
+FPR: 0.3028
+TPR: 1.0
+count: (7, 22, 31)
+FPR: 0.3023
+TPR: 1.0
+count: (7, 22, 32)
+FPR: 0.3023
+TPR: 1.0
+count: (7, 22, 33)
+FPR: 0.3023
+TPR: 1.0
+count: (7, 22, 34)
+FPR: 0.3023
+TPR: 1.0
+count: (7, 22, 35)
+FPR: 0.3023
+TPR: 1.0
+count: (7, 22, 36)
+FPR: 0.3023
+TPR: 1.0
+count: (7, 23, 31)
+FPR: 0.301
+TPR: 1.0
+count: (7, 23, 32)
+FPR: 0.301
+TPR: 1.0
+count: (7, 23, 33)
+FPR: 0.301
+TPR: 1.0
+count: (7, 23, 34)
+FPR: 0.301
+TPR: 1.0
+count: (7, 23, 35)
+FPR: 0.301
+TPR: 1.0
+count: (7, 23, 36)
+FPR: 0.301
+TPR: 1.0
+count: (7, 24, 31)
+FPR: 0.2997
+TPR: 1.0
+count: (7, 24, 32)
+FPR: 0.2997
+TPR: 1.0
+count: (7, 24, 33)
+FPR: 0.2997
+TPR: 1.0
+count: (7, 24, 34)
+FPR: 0.2997
+TPR: 1.0
+count: (7, 24, 35)
+FPR: 0.2997
+TPR: 1.0
+count: (7, 24, 36)
+FPR: 0.2997
+TPR: 1.0
+count: (8, 19, 31)
+FPR: 0.284
+TPR: 1.0
+count: (8, 19, 32)
+FPR: 0.284
+TPR: 1.0
+count: (8, 19, 33)
+FPR: 0.2839
+TPR: 1.0
+count: (8, 19, 34)
+FPR: 0.2839
+TPR: 1.0
+count: (8, 19, 35)
+FPR: 0.2839
+TPR: 1.0
+count: (8, 19, 36)
+FPR: 0.2839
+TPR: 1.0
+count: (8, 20, 31)
+FPR: 0.2826
+TPR: 1.0
+count: (8, 20, 32)
+FPR: 0.2826
+TPR: 1.0
+count: (8, 20, 33)
+FPR: 0.2825
+TPR: 1.0
+count: (8, 20, 34)
+FPR: 0.2825
+TPR: 1.0
+count: (8, 20, 35)
+FPR: 0.2825
+TPR: 1.0
+count: (8, 20, 36)
+FPR: 0.2825
+TPR: 1.0
+count: (8, 21, 31)
+FPR: 0.281
+TPR: 1.0
+count: (8, 21, 32)
+FPR: 0.281
+TPR: 1.0
+count: (8, 21, 33)
+FPR: 0.2809
+TPR: 1.0
+count: (8, 21, 34)
+FPR: 0.2809
+TPR: 1.0
+count: (8, 21, 35)
+FPR: 0.2809
+TPR: 1.0
+count: (8, 21, 36)
+FPR: 0.2809
+TPR: 1.0
+count: (8, 22, 31)
+FPR: 0.2804
+TPR: 1.0
+count: (8, 22, 32)
+FPR: 0.2804
+TPR: 1.0
+count: (8, 22, 33)
+FPR: 0.2803
+TPR: 1.0
+count: (8, 22, 34)
+FPR: 0.2803
+TPR: 1.0
+count: (8, 22, 35)
+FPR: 0.2803
+TPR: 1.0
+count: (8, 22, 36)
+FPR: 0.2803
+TPR: 1.0
+count: (8, 23, 31)
+FPR: 0.279
+TPR: 1.0
+count: (8, 23, 32)
+FPR: 0.279
+TPR: 1.0
+count: (8, 23, 33)
+FPR: 0.2789
+TPR: 1.0
+count: (8, 23, 34)
+FPR: 0.2789
+TPR: 1.0
+count: (8, 23, 35)
+FPR: 0.2789
+TPR: 1.0
+count: (8, 23, 36)
+FPR: 0.2789
+TPR: 1.0
+count: (8, 24, 31)
+FPR: 0.2774
+TPR: 1.0
+count: (8, 24, 32)
+FPR: 0.2774
+TPR: 1.0
+count: (8, 24, 33)
+FPR: 0.2773
+TPR: 1.0

@@ -1,0 +1,93 @@
+count: (2, 6)
+FPR: 0.1064
+TPR: 1.0
+count: (2, 7)
+FPR: 0.1053
+TPR: 1.0
+count: (2, 8)
+FPR: 0.1046
+TPR: 1.0
+count: (2, 9)
+FPR: 0.1044
+TPR: 1.0
+count: (2, 10)
+FPR: 0.104
+TPR: 1.0
+count: (2, 11)
+FPR: 0.1037
+TPR: 1.0
+count: (3, 6)
+FPR: 0.0883
+TPR: 1.0
+count: (3, 7)
+FPR: 0.087
+TPR: 1.0
+count: (3, 8)
+FPR: 0.0859
+TPR: 1.0
+count: (3, 9)
+FPR: 0.0855
+TPR: 1.0
+count: (3, 10)
+FPR: 0.085
+TPR: 1.0
+count: (3, 11)
+FPR: 0.0845
+TPR: 1.0
+count: (4, 6)
+FPR: 0.0743
+TPR: 1.0
+count: (4, 7)
+FPR: 0.0726
+TPR: 1.0
+count: (4, 8)
+FPR: 0.0708
+TPR: 1.0
+count: (4, 9)
+FPR: 0.0702
+TPR: 1.0
+count: (4, 10)
+FPR: 0.0696
+TPR: 1.0
+count: (4, 11)
+FPR: 0.069
+TPR: 1.0
+count: (5, 6)
+FPR: 0.066
+TPR: 1.0
+count: (5, 7)
+FPR: 0.0638
+TPR: 1.0
+count: (5, 8)
+FPR: 0.0616
+TPR: 1.0
+count: (5, 9)
+FPR: 0.0609
+TPR: 1.0
+count: (5, 10)
+FPR: 0.0601
+TPR: 1.0
+count: (5, 11)
+FPR: 0.0595
+TPR: 1.0
+count: (6, 6)
+FPR: 0.0606
+TPR: 1.0
+count: (6, 7)
+FPR: 0.0584
+TPR: 1.0
+count: (6, 8)
+FPR: 0.0559
+TPR: 1.0
+count: (6, 9)
+FPR: 0.055
+TPR: 1.0
+count: (6, 10)
+FPR: 0.0542
+TPR: 1.0
+count: (6, 11)
+FPR: 0.0536
+TPR: 1.0
+count: (7, 6)
+FPR: 0.0549
+TPR: 1.0

@@ -1,0 +1,34 @@
+median
+PDF : 1e-3
+trainset size : 5000
+normal_count : [2, 2, 2, 2, 3, 4]
+poison inference time: 0.0017613329598971177
+clean inference time: 0.001656867054302711
+count: (1, 1, 1, 1, 2, 3)
+F1: 0.3987
+FPR: 0.4567
+TPR: 0.3627
+poison inference time: 0.0016595007445954252
+clean inference time: 0.0016053444174001924
+count: (1, 1, 1, 1, 2, 4)
+F1: 0.3990
+FPR: 0.4552
+TPR: 0.3627
+poison inference time: 0.0016534591706003994
+clean inference time: 0.0016888372482964768
+count: (1, 1, 1, 1, 3, 3)
+F1: 0.3926
+FPR: 0.4214
+TPR: 0.3472
+poison inference time: 0.0016136963149008807
+clean inference time: 0.001631877687596716
+count: (1, 1, 1, 1, 3, 4)
+F1: 0.3930
+FPR: 0.4197
+TPR: 0.3472
+poison inference time: 0.0016592462711967528
+clean inference time: 0.0016617960261006374
+count: (1, 1, 1, 2, 2, 3)
+F1: 0.3954
+FPR: 0.4424
+TPR: 0.3554

@@ -1,0 +1,6 @@
+TPR: 1.17%
+FPR: 1.29%
+AUC: 0.4478
+F1 score: 0.0228
+clean inference time: 0.03537115487770061
+poison inference time: 0.031385654495604105

@@ -1,0 +1,13 @@
+﻿data/
+expriments/
+backdoordata/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+.git_backup/
+
+distribution/

@@ -1,0 +1,9 @@
+mean
+PDF : 1e-3
+trainset size : 5000
+poison inference time: 0.0010323451730997477
+clean inference time: 0.0009914150302000053
+count: (1, 5)
+F1: 0.8226
+FPR: 0.4145
+TPR: 0.9882

@@ -1,0 +1,3 @@
+mean
+PDF : 1e-3
+trainset size : 5000

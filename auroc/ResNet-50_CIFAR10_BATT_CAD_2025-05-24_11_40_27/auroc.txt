@@ -1,0 +1,29 @@
+mean
+CDF : 0.00005
+count: (7, 19, 31)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 19, 32)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 19, 33)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 19, 34)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 19, 35)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 19, 36)
+FPR: 0.3057
+TPR: 1.0
+count: (7, 20, 31)
+FPR: 0.3044
+TPR: 1.0
+count: (7, 20, 32)
+FPR: 0.3044
+TPR: 1.0
+count: (7, 20, 33)
+FPR: 0.3044
+TPR: 1.0

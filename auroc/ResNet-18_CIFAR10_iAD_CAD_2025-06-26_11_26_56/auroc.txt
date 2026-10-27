@@ -1,0 +1,39 @@
+mean
+PDF : 1e-3
+trainset size : 250
+count: (1, 5)
+F1: 0.9103
+FPR: 0.1971
+TPR: 1.0
+count: (1, 7)
+F1: 0.9130
+FPR: 0.1907
+TPR: 1.0
+count: (1, 9)
+F1: 0.9137
+FPR: 0.1888
+TPR: 1.0
+count: (1, 11)
+F1: 0.9140
+FPR: 0.1882
+TPR: 1.0
+count: (3, 5)
+F1: 0.9429
+FPR: 0.1211
+TPR: 1.0
+count: (3, 7)
+F1: 0.9470
+FPR: 0.1119
+TPR: 1.0
+count: (3, 9)
+F1: 0.9489
+FPR: 0.1077
+TPR: 1.0
+count: (3, 11)
+F1: 0.9495
+FPR: 0.1063
+TPR: 1.0
+count: (5, 5)
+F1: 0.9563
+FPR: 0.0913
+TPR: 1.0

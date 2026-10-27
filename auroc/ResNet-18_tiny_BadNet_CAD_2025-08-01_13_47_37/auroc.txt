@@ -1,0 +1,171 @@
+mean
+Z-score : 5
+trainset size : 5000
+poison inference time: 0.0012038417486997786
+clean inference time: 0.0006504565669980366
+count: (1, 5)
+F1: 0.8949
+FPR: 0.2189
+TPR: 0.9871
+poison inference time: 0.0006972964076034259
+clean inference time: 0.0006536762443953194
+count: (1, 7)
+F1: 0.9036
+FPR: 0.1954
+TPR: 0.9852
+poison inference time: 0.000658476163004525
+clean inference time: 0.0006573511013993993
+count: (1, 9)
+F1: 0.9083
+FPR: 0.1833
+TPR: 0.9845
+poison inference time: 0.0008190690907998941
+clean inference time: 0.001054554655897664
+count: (1, 11)
+F1: 0.9108
+FPR: 0.1772
+TPR: 0.9844
+poison inference time: 0.0006517075749055948
+clean inference time: 0.0006831889426975977
+count: (1, 13)
+F1: 0.9116
+FPR: 0.1753
+TPR: 0.9844
+poison inference time: 0.0006987961086968426
+clean inference time: 0.0006739328493014909
+count: (1, 15)
+F1: 0.9119
+FPR: 0.1745
+TPR: 0.9844
+poison inference time: 0.0006833501229004469
+clean inference time: 0.0006282363620004616
+count: (3, 5)
+F1: 0.9362
+FPR: 0.1139
+TPR: 0.9802
+poison inference time: 0.0006547772188030649
+clean inference time: 0.0007014500710996799
+count: (3, 7)
+F1: 0.9247
+FPR: 0.0795
+TPR: 0.9284
+poison inference time: 0.0006667929338989779
+clean inference time: 0.0006438354254001752
+count: (3, 9)
+F1: 0.9002
+FPR: 0.0615
+TPR: 0.8689
+poison inference time: 0.0006896584380010609
+clean inference time: 0.0006798893004015553
+count: (3, 11)
+F1: 0.8951
+FPR: 0.0526
+TPR: 0.8528
+poison inference time: 0.0006768891195999458
+clean inference time: 0.0006825136545987334
+count: (3, 13)
+F1: 0.8942
+FPR: 0.0496
+TPR: 0.8487
+poison inference time: 0.0006916749280004296
+clean inference time: 0.0006816758700995706
+count: (3, 15)
+F1: 0.8945
+FPR: 0.0481
+TPR: 0.848
+poison inference time: 0.0007158634981024079
+clean inference time: 0.0006638695241010282
+count: (5, 5)
+F1: 0.9457
+FPR: 0.0909
+TPR: 0.9785
+poison inference time: 0.0006911973509006202
+clean inference time: 0.0006718244304996916
+count: (5, 7)
+F1: 0.8904
+FPR: 0.0541
+TPR: 0.8458
+poison inference time: 0.0007029844476957805
+clean inference time: 0.0006956329022999853
+count: (5, 9)
+F1: 0.7526
+FPR: 0.0335
+TPR: 0.6236
+poison inference time: 0.0006592067577992566
+clean inference time: 0.0006785234494018368
+count: (5, 11)
+F1: 0.7117
+FPR: 0.0234
+TPR: 0.5653
+poison inference time: 0.0006883953122014645
+clean inference time: 0.0006717272676003631
+count: (5, 13)
+F1: 0.7002
+FPR: 0.0195
+TPR: 0.5492
+poison inference time: 0.0007187489431002178
+clean inference time: 0.0006434671299008187
+count: (5, 15)
+F1: 0.6972
+FPR: 0.0179
+TPR: 0.5447
+poison inference time: 0.0007101144881977234
+clean inference time: 0.0007180862426990643
+count: (7, 5)
+F1: 0.9489
+FPR: 0.0835
+TPR: 0.9781
+poison inference time: 0.0006935297599004116
+clean inference time: 0.0006808129434008151
+count: (7, 7)
+F1: 0.8566
+FPR: 0.0454
+TPR: 0.7832
+poison inference time: 0.0007135397441976238
+clean inference time: 0.0006611720826011151
+count: (7, 9)
+F1: 0.5660
+FPR: 0.0243
+TPR: 0.4043
+poison inference time: 0.0006894179399998393
+clean inference time: 0.0006716457579983398
+count: (7, 11)
+F1: 0.4500
+FPR: 0.0137
+TPR: 0.2943
+poison inference time: 0.0007340414992999285
+clean inference time: 0.0006823433612997178
+count: (7, 13)
+F1: 0.4147
+FPR: 0.0096
+TPR: 0.2641
+poison inference time: 0.0006974104157008696
+clean inference time: 0.0006754606205970049
+count: (7, 15)
+F1: 0.4051
+FPR: 0.0079
+TPR: 0.256
+poison inference time: 0.0006987182324985043
+clean inference time: 0.0006849676878016908
+count: (9, 5)
+F1: 0.9497
+FPR: 0.0816
+TPR: 0.9781
+poison inference time: 0.0006962906513013877
+clean inference time: 0.0006632476340979337
+count: (9, 7)
+F1: 0.8379
+FPR: 0.0434
+TPR: 0.7523
+poison inference time: 0.0006479169322992675
+clean inference time: 0.0006944269546016585
+count: (9, 9)
+F1: 0.4437
+FPR: 0.0218
+TPR: 0.2913
+poison inference time: 0.0006604822437977419
+clean inference time: 0.0006705747896980029
+count: (9, 11)
+F1: 0.2653
+FPR: 0.0109
+TPR: 0.1546

@@ -1,0 +1,2 @@
+mean
+Z-score:5

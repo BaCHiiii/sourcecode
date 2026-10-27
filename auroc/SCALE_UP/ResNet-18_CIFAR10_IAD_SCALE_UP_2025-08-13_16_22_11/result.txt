@@ -1,0 +1,10 @@
+TP: 455
+FP: 2769
+TN: 7231
+FN: 9545
+TPR: 4.55
+FPR: 27.69
+AUC: 0.3017
+F1 score: 0.0688
+clean inference time: 0.00723325054619927
+poison inference time: 0.000550760714703938

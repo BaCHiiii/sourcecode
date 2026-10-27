@@ -1,0 +1,494 @@
+mean
+PDF : 1e-5
+trainset size : 100
+poison inference time: 0.0022637920959852637
+clean inference time: 0.0022665069738868624
+count: [5, 5, 1, 1]
+F1: 0.7548
+FPR: 0.6486
+TPR: 0.9993
+poison inference time: 0.0024332339618820696
+clean inference time: 0.0025660530837252737
+count: [5, 5, 1, 2]
+F1: 0.7796
+FPR: 0.5639
+TPR: 0.9991
+poison inference time: 0.0024229807496070864
+clean inference time: 0.002046849695313722
+count: [5, 5, 1, 3]
+F1: 0.8034
+FPR: 0.4866
+TPR: 0.9982
+poison inference time: 0.0021097092004027217
+clean inference time: 0.0022621019846294074
+count: [5, 5, 1, 4]
+F1: 0.8212
+FPR: 0.4233
+TPR: 0.9916
+poison inference time: 0.002263087954185903
+clean inference time: 0.0023866336739156394
+count: [5, 5, 1, 5]
+F1: 0.8388
+FPR: 0.3608
+TPR: 0.983
+poison inference time: 0.0024179766771849245
+clean inference time: 0.002517092652618885
+count: [5, 5, 1, 6]
+F1: 0.8542
+FPR: 0.308
+TPR: 0.9751
+poison inference time: 0.002610952608566731
+clean inference time: 0.0020341202104929837
+count: [5, 5, 1, 7]
+F1: 0.8652
+FPR: 0.2658
+TPR: 0.965
+poison inference time: 0.002103947322908789
+clean inference time: 0.002272815126599744
+count: [5, 5, 1, 8]
+F1: 0.8695
+FPR: 0.2342
+TPR: 0.9493
+poison inference time: 0.002220000766403973
+clean inference time: 0.002306261343276128
+count: [5, 5, 1, 9]
+F1: 0.8723
+FPR: 0.2106
+TPR: 0.9365
+poison inference time: 0.0023962001748848707
+clean inference time: 0.002267671698424965
+count: [5, 5, 2, 1]
+F1: 0.7605
+FPR: 0.6284
+TPR: 0.9991
+poison inference time: 0.0022607189225032926
+clean inference time: 0.002086056280788034
+count: [5, 5, 2, 2]
+F1: 0.7873
+FPR: 0.538
+TPR: 0.9984
+poison inference time: 0.001996866048173979
+clean inference time: 0.0022622514188289644
+count: [5, 5, 2, 3]
+F1: 0.8137
+FPR: 0.4533
+TPR: 0.9969
+poison inference time: 0.0021736541378777475
+clean inference time: 0.002197005478432402
+count: [5, 5, 2, 4]
+F1: 0.8309
+FPR: 0.3828
+TPR: 0.9828
+poison inference time: 0.0022706692683044823
+clean inference time: 0.0024294474322814493
+count: [5, 5, 2, 5]
+F1: 0.8459
+FPR: 0.3123
+TPR: 0.9618
+poison inference time: 0.0023224604254122824
+clean inference time: 0.0020478120970074086
+count: [5, 5, 2, 6]
+F1: 0.8580
+FPR: 0.2522
+TPR: 0.9407
+poison inference time: 0.0020276463338173927
+clean inference time: 0.0021547020714730025
+count: [5, 5, 2, 7]
+F1: 0.8635
+FPR: 0.2037
+TPR: 0.9146
+poison inference time: 0.00227754818322137
+clean inference time: 0.002424415144696832
+count: [5, 5, 2, 8]
+F1: 0.8515
+FPR: 0.1641
+TPR: 0.863
+poison inference time: 0.002382602194370702
+clean inference time: 0.0022861585536040367
+count: [5, 5, 2, 9]
+F1: 0.8394
+FPR: 0.1347
+TPR: 0.8207
+poison inference time: 0.0023959864931181072
+clean inference time: 0.0021277090570889414
+count: [5, 5, 3, 1]
+F1: 0.7618
+FPR: 0.6238
+TPR: 0.999
+poison inference time: 0.002166324315685779
+clean inference time: 0.002127489103935659
+count: [5, 5, 3, 2]
+F1: 0.7892
+FPR: 0.5311
+TPR: 0.9979
+poison inference time: 0.0023426813082769514
+clean inference time: 0.0021722983811050655
+count: [5, 5, 3, 3]
+F1: 0.8160
+FPR: 0.4445
+TPR: 0.9956
+poison inference time: 0.002328214951697737
+clean inference time: 0.002709336589835584
+count: [5, 5, 3, 4]
+F1: 0.8300
+FPR: 0.3721
+TPR: 0.9734
+poison inference time: 0.0021361415915656834
+clean inference time: 0.00219719029571861
+count: [5, 5, 3, 5]
+F1: 0.8407
+FPR: 0.2984
+TPR: 0.9415
+poison inference time: 0.0021065705300774423
+clean inference time: 0.0023063113593962043
+count: [5, 5, 3, 6]
+F1: 0.8461
+FPR: 0.2351
+TPR: 0.9056
+poison inference time: 0.002222831062134355
+clean inference time: 0.002245132738770917
+count: [5, 5, 3, 7]
+F1: 0.8412
+FPR: 0.1844
+TPR: 0.8597
+poison inference time: 0.002607957717496902
+clean inference time: 0.002462983904592693
+count: [5, 5, 3, 8]
+F1: 0.8047
+FPR: 0.1423
+TPR: 0.769
+poison inference time: 0.0023188726749271155
+clean inference time: 0.0022058445506729185
+count: [5, 5, 3, 9]
+F1: 0.7701
+FPR: 0.1113
+TPR: 0.6958
+poison inference time: 0.0022963789272122084
+clean inference time: 0.0021245571036823093
+count: [5, 5, 4, 1]
+F1: 0.7623
+FPR: 0.622
+TPR: 0.9989
+poison inference time: 0.002302133889077231
+clean inference time: 0.0023982870107982306
+count: [5, 5, 4, 2]
+F1: 0.7899
+FPR: 0.5284
+TPR: 0.9977
+poison inference time: 0.002505137215089053
+clean inference time: 0.002396698802523315
+count: [5, 5, 4, 3]
+F1: 0.8167
+FPR: 0.4414
+TPR: 0.9948
+poison inference time: 0.0021019694363698365
+clean inference time: 0.0019862625741399824
+count: [5, 5, 4, 4]
+F1: 0.8279
+FPR: 0.3678
+TPR: 0.9661
+poison inference time: 0.0022424977690912785
+clean inference time: 0.00203174531548284
+count: [5, 5, 4, 5]
+F1: 0.8347
+FPR: 0.2929
+TPR: 0.9261
+poison inference time: 0.0024245581671595573
+clean inference time: 0.0024811324024107306
+count: [5, 5, 4, 6]
+F1: 0.8336
+FPR: 0.2286
+TPR: 0.8781
+poison inference time: 0.0023934771069791167
+clean inference time: 0.0026145974209997804
+count: [5, 5, 4, 7]
+F1: 0.8189
+FPR: 0.1773
+TPR: 0.8163
+poison inference time: 0.0021035649158991873
+clean inference time: 0.0019267323140054941
+count: [5, 5, 4, 8]
+F1: 0.7608
+FPR: 0.1342
+TPR: 0.6963
+poison inference time: 0.0021810293552931397
+clean inference time: 0.002407628942001611
+count: [5, 5, 4, 9]
+F1: 0.7000
+FPR: 0.1023
+TPR: 0.5935
+poison inference time: 0.0024056201121769845
+clean inference time: 0.0023704334958922118
+count: [5, 5, 5, 1]
+F1: 0.7623
+FPR: 0.6218
+TPR: 0.9989
+poison inference time: 0.0023659045153763144
+clean inference time: 0.002499120134720579
+count: [5, 5, 5, 2]
+F1: 0.7900
+FPR: 0.528
+TPR: 0.9977
+poison inference time: 0.0020175302122253927
+clean inference time: 0.00211242418596521
+count: [5, 5, 5, 3]
+F1: 0.8168
+FPR: 0.4405
+TPR: 0.9945
+poison inference time: 0.0021570298463106157
+clean inference time: 0.0022731160822790117
+count: [5, 5, 5, 4]
+F1: 0.8270
+FPR: 0.3666
+TPR: 0.9635
+poison inference time: 0.00244402087200433
+clean inference time: 0.0024880364244803787
+count: [5, 5, 5, 5]
+F1: 0.8314
+FPR: 0.2911
+TPR: 0.9186
+poison inference time: 0.00248251338400878
+clean inference time: 0.0024096221805084495
+count: [5, 5, 5, 6]
+F1: 0.8256
+FPR: 0.2265
+TPR: 0.8622
+poison inference time: 0.002275820398516953
+clean inference time: 0.0022343253340106456
+count: [5, 5, 5, 7]
+F1: 0.8039
+FPR: 0.1746
+TPR: 0.7895
+poison inference time: 0.002136196265183389
+clean inference time: 0.0023071128565818073
+count: [5, 5, 5, 8]
+F1: 0.7308
+FPR: 0.1315
+TPR: 0.6515
+poison inference time: 0.002504301942884922
+clean inference time: 0.0025959134125150742
+count: [5, 5, 5, 9]
+F1: 0.6533
+FPR: 0.099
+TPR: 0.5331
+poison inference time: 0.002373927777679637
+clean inference time: 0.002182378639886156
+count: [5, 5, 6, 1]
+F1: 0.7623
+FPR: 0.6218
+TPR: 0.9988
+poison inference time: 0.002138815682800487
+clean inference time: 0.002141762976720929
+count: [5, 5, 6, 2]
+F1: 0.7900
+FPR: 0.5277
+TPR: 0.9974
+poison inference time: 0.0023167075691744687
+clean inference time: 0.0022443379084113985
+count: [5, 5, 6, 3]
+F1: 0.8168
+FPR: 0.44
+TPR: 0.9941
+poison inference time: 0.0023766003763303163
+clean inference time: 0.0024527470699045807
+count: [5, 5, 6, 4]
+F1: 0.8261
+FPR: 0.366
+TPR: 0.9613
+poison inference time: 0.002455851274030283
+clean inference time: 0.0021026876444928348
+count: [5, 5, 6, 5]
+F1: 0.8288
+FPR: 0.2903
+TPR: 0.9131
+poison inference time: 0.0021972329635173084
+clean inference time: 0.002219982028659433
+count: [5, 5, 6, 6]
+F1: 0.8205
+FPR: 0.2256
+TPR: 0.8526
+poison inference time: 0.0023127046789042653
+clean inference time: 0.0025777401708997785
+count: [5, 5, 6, 7]
+F1: 0.7954
+FPR: 0.1736
+TPR: 0.7749
+poison inference time: 0.002464498372003436
+clean inference time: 0.002555031829979271
+count: [5, 5, 6, 8]
+F1: 0.7115
+FPR: 0.1303
+TPR: 0.6241
+poison inference time: 0.002379422536492348
+clean inference time: 0.0020991202651057393
+count: [5, 5, 6, 9]
+F1: 0.6213
+FPR: 0.0978
+TPR: 0.4947
+poison inference time: 0.0022586933232843875
+clean inference time: 0.0024867351949214933
+count: [5, 5, 7, 1]
+F1: 0.7623
+FPR: 0.6218
+TPR: 0.9988
+poison inference time: 0.002137158926902339
+clean inference time: 0.002422035579709336
+count: [5, 5, 7, 2]
+F1: 0.7900
+FPR: 0.5277
+TPR: 0.9974
+poison inference time: 0.0025403067209292204
+clean inference time: 0.0023794587353710085
+count: [5, 5, 7, 3]
+F1: 0.8168
+FPR: 0.44
+TPR: 0.9941
+poison inference time: 0.002422872479306534
+clean inference time: 0.002079242921900004
+count: [5, 5, 7, 4]
+F1: 0.8256
+FPR: 0.3659
+TPR: 0.9602
+poison inference time: 0.0024312552338000386
+clean inference time: 0.002308620144193992
+count: [5, 5, 7, 5]
+F1: 0.8271
+FPR: 0.2902
+TPR: 0.9099
+poison inference time: 0.0023054318790324034
+clean inference time: 0.002520918401191011
+count: [5, 5, 7, 6]
+F1: 0.8175
+FPR: 0.2254
+TPR: 0.8471
+poison inference time: 0.0025010850442107766
+clean inference time: 0.002241086520580575
+count: [5, 5, 7, 7]
+F1: 0.7897
+FPR: 0.1733
+TPR: 0.7655
+poison inference time: 0.0023196265582926573
+clean inference time: 0.0020454724620096384
+count: [5, 5, 7, 8]
+F1: 0.7005
+FPR: 0.1299
+TPR: 0.6091
+poison inference time: 0.002466659121308476
+clean inference time: 0.0023355406580027193
+count: [5, 5, 7, 9]
+F1: 0.6034
+FPR: 0.0974
+TPR: 0.4741
+poison inference time: 0.002230590186780319
+clean inference time: 0.002486483520595357
+count: [5, 5, 8, 1]
+F1: 0.7623
+FPR: 0.6217
+TPR: 0.9988
+poison inference time: 0.0025218321105930953
+clean inference time: 0.0024810851147864014
+count: [5, 5, 8, 2]
+F1: 0.7900
+FPR: 0.5276
+TPR: 0.9974
+poison inference time: 0.002046512910304591
+clean inference time: 0.0021412646278273313
+count: [5, 5, 8, 3]
+F1: 0.8167
+FPR: 0.4399
+TPR: 0.9939
+poison inference time: 0.002305329644586891
+clean inference time: 0.0023300562798976897
+count: [5, 5, 8, 4]
+F1: 0.8251
+FPR: 0.3658
+TPR: 0.9591
+poison inference time: 0.0023066265861038117
+clean inference time: 0.002432842384604737
+count: [5, 5, 8, 5]
+F1: 0.8263
+FPR: 0.29
+TPR: 0.9082
+poison inference time: 0.002404707531677559
+clean inference time: 0.0024209980844054372
+count: [5, 5, 8, 6]
+F1: 0.8159
+FPR: 0.2252
+TPR: 0.8442
+poison inference time: 0.0020907324598170816
+clean inference time: 0.002247396342875436
+count: [5, 5, 8, 7]
+F1: 0.7870
+FPR: 0.173
+TPR: 0.761
+poison inference time: 0.0024056773817166684
+clean inference time: 0.002246191443596035
+count: [5, 5, 8, 8]
+F1: 0.6954
+FPR: 0.1295
+TPR: 0.6021
+poison inference time: 0.002452695442084223
+clean inference time: 0.002552901851106435
+count: [5, 5, 8, 9]
+F1: 0.5948
+FPR: 0.097
+TPR: 0.4643
+poison inference time: 0.0025765508827753367
+clean inference time: 0.002114928019698709
+count: [5, 5, 9, 1]
+F1: 0.7623
+FPR: 0.6217
+TPR: 0.9988
+poison inference time: 0.0021216203791089355
+clean inference time: 0.002182843912998214
+count: [5, 5, 9, 2]
+F1: 0.7900
+FPR: 0.5276
+TPR: 0.9974
+poison inference time: 0.002317524767667055
+clean inference time: 0.002253970959316939
+count: [5, 5, 9, 3]
+F1: 0.8167
+FPR: 0.4399
+TPR: 0.9939
+poison inference time: 0.002565930833481252
+clean inference time: 0.0025657156167086213
+count: [5, 5, 9, 4]
+F1: 0.8249
+FPR: 0.3658
+TPR: 0.9588
+poison inference time: 0.002501043521799147
+clean inference time: 0.0020267941067926586
+count: [5, 5, 9, 5]
+F1: 0.8259
+FPR: 0.29
+TPR: 0.9075
+poison inference time: 0.0020895888966042547
+clean inference time: 0.002121541754109785
+count: [5, 5, 9, 6]
+F1: 0.8151
+FPR: 0.2252
+TPR: 0.8428
+poison inference time: 0.0021908256594091653
+clean inference time: 0.0024572768594138326
+count: [5, 5, 9, 7]
+F1: 0.7855
+FPR: 0.173
+TPR: 0.7587
+poison inference time: 0.002396439403668046
+clean inference time: 0.002450934675429016
+count: [5, 5, 9, 8]
+F1: 0.6922
+FPR: 0.1295
+TPR: 0.5978
+poison inference time: 0.0024495603368617593
+clean inference time: 0.00210118996524252
+count: [5, 5, 9, 9]
+F1: 0.5887
+FPR: 0.097
+TPR: 0.4576
+FPR: (0, 0.097, 0.097, 0.0974, 0.0978, 0.099, 0.1023, 0.1113, 0.1295, 0.1295, 0.1299, 0.1303, 0.1315, 0.1342, 0.1347, 0.1423, 0.1641, 0.173, 0.173, 0.1733, 0.1736, 0.1746, 0.1773, 0.1844, 0.2037, 0.2106, 0.2252, 0.2252, 0.2254, 0.2256, 0.2265, 0.2286, 0.2342, 0.2351, 0.2522, 0.2658, 0.29, 0.29, 0.2902, 0.2903, 0.2911, 0.2929, 0.2984, 0.308, 0.3123, 0.3608, 0.3658, 0.3658, 0.3659, 0.366, 0.3666, 0.3678, 0.3721, 0.3828, 0.4233, 0.4399, 0.4399, 0.44, 0.44, 0.4405, 0.4414, 0.4445, 0.4533, 0.4866, 0.5276, 0.5276, 0.5277, 0.5277, 0.528, 0.5284, 0.5311, 0.538, 0.5639, 0.6217, 0.6217, 0.6218, 0.6218, 0.6218, 0.622, 0.6238, 0.6284, 0.6486, 1)
+TPR: (0, 0.4576, 0.4643, 0.4741, 0.4947, 0.5331, 0.5935, 0.6958, 0.5978, 0.6021, 0.6091, 0.6241, 0.6515, 0.6963, 0.8207, 0.769, 0.863, 0.7587, 0.761, 0.7655, 0.7749, 0.7895, 0.8163, 0.8597, 0.9146, 0.9365, 0.8428, 0.8442, 0.8471, 0.8526, 0.8622, 0.8781, 0.9493, 0.9056, 0.9407, 0.965, 0.9075, 0.9082, 0.9099, 0.9131, 0.9186, 0.9261, 0.9415, 0.9751, 0.9618, 0.983, 0.9588, 0.9591, 0.9602, 0.9613, 0.9635, 0.9661, 0.9734, 0.9828, 0.9916, 0.9939, 0.9939, 0.9941, 0.9941, 0.9945, 0.9948, 0.9956, 0.9969, 0.9982, 0.9974, 0.9974, 0.9974, 0.9974, 0.9977, 0.9977, 0.9979, 0.9984, 0.9991, 0.9988, 0.9988, 0.9988, 0.9988, 0.9989, 0.9989, 0.999, 0.9991, 0.9993, 1)
+ROC AUC: 0.89
+F1: 0.8723
+inference_time : 0.0023044892779013927

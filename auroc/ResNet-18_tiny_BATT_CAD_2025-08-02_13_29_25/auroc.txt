@@ -1,0 +1,224 @@
+mean
+PDF : 1e-5
+trainset size : 2000
+poison inference time: 0.0008207842262927443
+clean inference time: 0.0007267052859067916
+count: (1, 5)
+F1: 0.8858
+FPR: 0.2571
+TPR: 0.9995
+poison inference time: 0.0008474144016043284
+clean inference time: 0.0007761892886948772
+count: (1, 7)
+F1: 0.8959
+FPR: 0.2319
+TPR: 0.9995
+poison inference time: 0.0007702932629035786
+clean inference time: 0.0007881889360025525
+count: (1, 9)
+F1: 0.9006
+FPR: 0.2201
+TPR: 0.9995
+poison inference time: 0.000826661701197736
+clean inference time: 0.0007695653600036167
+count: (1, 11)
+F1: 0.9030
+FPR: 0.2143
+TPR: 0.9995
+poison inference time: 0.000814111959701404
+clean inference time: 0.0007384702750947327
+count: (1, 13)
+F1: 0.9039
+FPR: 0.2121
+TPR: 0.9995
+poison inference time: 0.0007831851841998286
+clean inference time: 0.0007855790350004099
+count: (1, 15)
+F1: 0.9040
+FPR: 0.2117
+TPR: 0.9995
+poison inference time: 0.000789002188690938
+clean inference time: 0.0007448163512977771
+count: (3, 5)
+F1: 0.9173
+FPR: 0.1337
+TPR: 0.9605
+poison inference time: 0.0008743161061080173
+clean inference time: 0.0007330572764971294
+count: (3, 7)
+F1: 0.9341
+FPR: 0.0961
+TPR: 0.9605
+poison inference time: 0.0008494867625064217
+clean inference time: 0.0007634251154959202
+count: (3, 9)
+F1: 0.9426
+FPR: 0.0775
+TPR: 0.9605
+poison inference time: 0.000831775494501926
+clean inference time: 0.0007956485140020959
+count: (3, 11)
+F1: 0.9471
+FPR: 0.0678
+TPR: 0.9605
+poison inference time: 0.000827809513208922
+clean inference time: 0.0007743758876924403
+count: (3, 13)
+F1: 0.9490
+FPR: 0.0638
+TPR: 0.9605
+poison inference time: 0.0008074113063979894
+clean inference time: 0.0007263036797055974
+count: (3, 15)
+F1: 0.9497
+FPR: 0.0622
+TPR: 0.9605
+poison inference time: 0.0007743203284917399
+clean inference time: 0.0007468933723052033
+count: (5, 5)
+F1: 0.8900
+FPR: 0.107
+TPR: 0.8876
+poison inference time: 0.0008037752187927253
+clean inference time: 0.0007813383687054738
+count: (5, 7)
+F1: 0.9091
+FPR: 0.0651
+TPR: 0.8876
+poison inference time: 0.0008097679081954994
+clean inference time: 0.0007665901259984821
+count: (5, 9)
+F1: 0.9188
+FPR: 0.0445
+TPR: 0.8876
+poison inference time: 0.0007894899305072613
+clean inference time: 0.0007614394351956435
+count: (5, 11)
+F1: 0.9240
+FPR: 0.0337
+TPR: 0.8876
+poison inference time: 0.0007850762668997049
+clean inference time: 0.0007449589903000742
+count: (5, 13)
+F1: 0.9263
+FPR: 0.0289
+TPR: 0.8876
+poison inference time: 0.0008129980665980838
+clean inference time: 0.0007552313794963993
+count: (5, 15)
+F1: 0.9272
+FPR: 0.027
+TPR: 0.8876
+poison inference time: 0.0008402784185949713
+clean inference time: 0.0007662251936970279
+count: (7, 5)
+F1: 0.8477
+FPR: 0.0968
+TPR: 0.8069
+poison inference time: 0.0007787275923998095
+clean inference time: 0.0007628163259010762
+count: (7, 7)
+F1: 0.8673
+FPR: 0.0538
+TPR: 0.8069
+poison inference time: 0.00079502434899332
+clean inference time: 0.0007733500762027688
+count: (7, 9)
+F1: 0.8774
+FPR: 0.0324
+TPR: 0.8069
+poison inference time: 0.000834446544398088
+clean inference time: 0.0007648661390994675
+count: (7, 11)
+F1: 0.8828
+FPR: 0.0211
+TPR: 0.8069
+poison inference time: 0.0007640381001983769
+clean inference time: 0.0007196816697018221
+count: (7, 13)
+F1: 0.8853
+FPR: 0.0159
+TPR: 0.8069
+poison inference time: 0.0008614026107010432
+clean inference time: 0.0007578617231920362
+count: (7, 15)
+F1: 0.8864
+FPR: 0.0137
+TPR: 0.8069
+poison inference time: 0.0007706022597965785
+clean inference time: 0.0007930274327052758
+count: (9, 5)
+F1: 0.7720
+FPR: 0.0928
+TPR: 0.687
+poison inference time: 0.0008082188167958521
+clean inference time: 0.0007692712640971877
+count: (9, 7)
+F1: 0.7913
+FPR: 0.0493
+TPR: 0.687
+poison inference time: 0.0008136680245050229
+clean inference time: 0.000739645430399105
+count: (9, 9)
+F1: 0.8015
+FPR: 0.0273
+TPR: 0.687
+poison inference time: 0.0007890238271094859
+clean inference time: 0.0007484464702894911
+count: (9, 11)
+F1: 0.8068
+FPR: 0.016
+TPR: 0.687
+poison inference time: 0.0008049686664948239
+clean inference time: 0.0007824808398028836
+count: (9, 13)
+F1: 0.8094
+FPR: 0.0106
+TPR: 0.687
+poison inference time: 0.0008380672602914274
+clean inference time: 0.000798368164501153
+count: (9, 15)
+F1: 0.8105
+FPR: 0.0082
+TPR: 0.687
+poison inference time: 0.0007673234599991701
+clean inference time: 0.0007698655485059134
+count: (11, 5)
+F1: 0.6375
+FPR: 0.0912
+TPR: 0.5106
+poison inference time: 0.0007932423762045801
+clean inference time: 0.0007613766672904603
+count: (11, 7)
+F1: 0.6554
+FPR: 0.0476
+TPR: 0.5106
+poison inference time: 0.0008067357089952565
+clean inference time: 0.0007663586672977545
+count: (11, 9)
+F1: 0.6648
+FPR: 0.0255
+TPR: 0.5106
+poison inference time: 0.0008002261181012727
+clean inference time: 0.0007749970428994856
+count: (11, 11)
+F1: 0.6699
+FPR: 0.0139
+TPR: 0.5106
+poison inference time: 0.0008512791831977666
+clean inference time: 0.0007423850135994144
+count: (11, 13)
+F1: 0.6722
+FPR: 0.0085
+TPR: 0.5106
+poison inference time: 0.000816384521999862
+clean inference time: 0.0007887291598017328
+count: (11, 15)
+F1: 0.6733
+FPR: 0.006
+TPR: 0.5106
+FPR: (0, 0.006, 0.0082, 0.0085, 0.0106, 0.0137, 0.0139, 0.0159, 0.016, 0.0211, 0.0255, 0.027, 0.0273, 0.0289, 0.0324, 0.0337, 0.0445, 0.0476, 0.0493, 0.0538, 0.0622, 0.0638, 0.0651, 0.0678, 0.0775, 0.0912, 0.0928, 0.0961, 0.0968, 0.107, 0.1337, 0.2117, 0.2121, 0.2143, 0.2201, 0.2319, 0.2571, 1)
+TPR: (0, 0.5106, 0.687, 0.5106, 0.687, 0.8069, 0.5106, 0.8069, 0.687, 0.8069, 0.5106, 0.8876, 0.687, 0.8876, 0.8069, 0.8876, 0.8876, 0.5106, 0.687, 0.8069, 0.9605, 0.9605, 0.8876, 0.9605, 0.9605, 0.5106, 0.687, 0.9605, 0.8069, 0.8876, 0.9605, 0.9995, 0.9995, 0.9995, 0.9995, 0.9995, 0.9995, 1)
+ROC AUC: 0.97
+F1: 0.9497
+inference_time : 0.0007862481551660393
